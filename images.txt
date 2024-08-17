@@ -1,3 +1,5 @@
-nginx
-jellyfin/jellyfin
-python:3.8
+halohub/halo
+zadam/trilium
+deluan/navidrome
+talebook/talebook
+linuxserver/zotero
