@@ -1,2 +1,3 @@
 nginx
 jellyfin/jellyfin
+python:3.8
