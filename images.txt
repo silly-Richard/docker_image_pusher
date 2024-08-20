@@ -1,1 +1,1 @@
-halohub/halo:2.4.2
+halohub/halo:2.10.1
