@@ -1,1 +1,1 @@
-mediawiki:1.39.2
+mariadb:10.11.6
